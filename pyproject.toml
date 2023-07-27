@@ -1,5 +1,5 @@
 [project]
-name = "1k1"
+name = "lavanda"
 version = "0.0.1"
 authors = [
   { name="mtchdlr", email="datomtchedluri@gmail.com" },
@@ -7,11 +7,8 @@ authors = [
 description = "1001 things and more"
 readme = "README.md"
 requires-python = ">=3.7"
-# TODO review later
-classifiers = [
-    "Programming Language :: Python :: 3",
-    "Operating System :: OS Independent",
-]
+
+classifiers = []
 
 [project.urls]
 "Homepage" = "https://github.com/mtchdlr/1k1"
